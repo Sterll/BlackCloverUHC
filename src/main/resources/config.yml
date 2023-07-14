@@ -1,0 +1,5 @@
+game:
+  role_episode: 2
+  pvp_time: 5
+  protection_time: 1
+  roles: []
